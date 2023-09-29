@@ -1,5 +1,5 @@
 body{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     font-size: 16px;
     margin: 0px auto;
     max-width: 1024px;
@@ -63,6 +63,10 @@ header nav ul li{
     border-radius:  5px;
     width: 98%;
     
+}
+
+#seccion02{
+    margin-bottom: 100px;
 }
 
 #seccion02 article{
