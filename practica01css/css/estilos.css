@@ -65,4 +65,30 @@ header nav ul li{
     
 }
 
+#seccion02 article{
+    display: inline-block;
+    vertical-align: top;
+    width: 33%;
+}
+
+#seccion02 article input[type = "submit"]{
+    background-color: white;
+    border-radius: 5px;
+    color: blue;
+    margin-left: 130px;
+    padding: 5px;
+}
+
+.nita{
+    font-weight: bold;
+}
+
+.otraSeccion{
+    font-size: 2.5em;
+}
+
+.unaSeccion{
+    font-size: 4.5em;
+}
+
 
