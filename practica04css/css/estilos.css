@@ -1,0 +1,14 @@
+body{
+    /* border: 1px solid red; */
+    font-size: 16px;
+    margin: 0px auto;
+    max-width: 1024px;
+}
+
+h1 nav {
+    background-color: #026dc6;
+    border-radius: 5px;
+    padding: 2px 0px;
+    margin: 0px auto;
+    width: 99%;
+}
